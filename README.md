@@ -7,7 +7,7 @@ commands.</p>
 <p>
 It is also called  or <b>intelligent personal assistant. </b>
 </p> <br> <p>
-  <b> APP.PY</b> This  is more simple than main.py<br>
+  <b> APP.PY</b> <br> This  is more simple than main.py<br>
   Python Dependencies Needed are:<br>
 <code>
 pip install speechrecognition </code><br>
@@ -20,3 +20,33 @@ pip install speechrecognition </code><br>
   </code>
   
 To run it use navigate to the foldder and run the command <br><code>Python app.py</code></p>
+
+<p>
+  <b> main.py </b>
+  This is a more complex code,In can do the following:
+  <br>
+  
+ 1. Open the subreddit in the browser.<br>
+2. Open any website in the browser.<br>
+3. Send an email to your contacts.<br>
+4. Launch any system application.<br>
+5. Tells you the current weather and temperature of almost any city.<br>
+6. Tells you the current time.<br>
+7. Greetings<br>
+8. Play you a song on VLC media player(of course you need to have VLC media player installed in your laptop/desktop)<br>
+9. Change desktop wallpaper.<br>
+10. Tells you latest news feeds.<br>
+11. Tells you about almost anything you ask.<br>
+  
+  <br> Python dependancies includes:
+<code>  
+pip install SpeechRecognition
+ </code><br>
+  <code>
+<code>pip install beautifulsoup4</code><br>
+<code>pip install vlc</code><br>
+<code>pip install youtube-dl</code><br>
+<code>pip install pyowm</code><br>
+<code>pip install wikipedia</code><br>
+    To run the file run <code> Python3 main.py<code>. 
+    </p>
