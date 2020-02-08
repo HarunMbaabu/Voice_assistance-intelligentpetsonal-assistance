@@ -38,11 +38,9 @@ To run it use navigate to the foldder and run the command <br><code>Python app.p
 10. Tells you latest news feeds.<br>
 11. Tells you about almost anything you ask.<br>
   
-  <br> Python dependancies includes:
-<code>  
-pip install SpeechRecognition
+  <br> Python dependancies includes:<br>
+<code> pip install SpeechRecognition
  </code><br>
-  <code>
 <code>pip install beautifulsoup4</code><br>
 <code>pip install vlc</code><br>
 <code>pip install youtube-dl</code><br>
