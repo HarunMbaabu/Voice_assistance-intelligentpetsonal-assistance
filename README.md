@@ -5,5 +5,16 @@ back via voice, and manage other basic tasks such as email, to-do lists, open or
 commands.</p>
 <br>
 <p>
-It is also called  or <b>intelligent personal assistant </b>
-</p>
+It is also called  or <b>intelligent personal assistant. </b>
+</p> <br> <p>
+  <b> APP.PY</b> This  is more simple than main.py<br>
+  Dependencies are<br>
+pip install speechrecognition<br>
+pip install pyttsx3<br>
+pip install pyaudio<br>
+pip install playsound<br>
+pip install PyObjC<br>
+pip install PyAudio<br>
+pip install gtts<br>  
+  
+To run it use navigate to the foldder and run the command <br><b>Python app.py</b>
