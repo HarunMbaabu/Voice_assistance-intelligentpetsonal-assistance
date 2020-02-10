@@ -6,7 +6,14 @@ commands.</p>
 <br>
 <p>
 It is also called  or <b>intelligent personal assistant. </b>
-</p> <br> <p>
+</p> <br>
+<p>You will need to install Python, Create a virtual environment and install Python Dependencies.
+<br>
+Installing python virtual env called myenv:<br>
+  <code> python3 -m venv myenv</code><br>
+<code> source django/bin/activate</code></p>
+<p>
+  
   <b> APP.PY</b> <br> This  is more simple than main.py<br>
   Python Dependencies Needed are:<br>
 <code>
